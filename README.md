@@ -17,4 +17,3 @@ The implementation adheres to good programming practices, includes detailed docu
 
 Feel free to explore, contribute, and enjoy the exciting quest for the Crystal Kingdom in this interactive game!
 
-Note: Make sure to replace "ReprositryName" in the request with a suitable repository name of your choice.
